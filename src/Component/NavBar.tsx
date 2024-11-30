@@ -1,6 +1,5 @@
-import React from "react";
 import { HStack } from "@chakra-ui/react";
-import { DecorativeBox } from "compositions/lib/decorative-box";
+import { DecorativeBox } from "../components/ui/decorative-box";
 import { Box } from "@chakra-ui/react";
 
 const NavBar = () => {
